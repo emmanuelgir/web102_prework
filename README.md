@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Watch the walkthrough video](https://www.loom.com/share/946f3d62eb8e42d194642c201cd9231c)
+[Watch the walkthrough video](https://imgur.com/a/I471Kkd)
 
 <!-- Replace the link above with the actual Loom or GIF link -->
 
